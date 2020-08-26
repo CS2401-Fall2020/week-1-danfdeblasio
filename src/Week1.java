@@ -4,5 +4,6 @@ public class Week1{
     String s = "";
     // print each character of s on a new line
     //new comment
+    //second comment
   }
 }
